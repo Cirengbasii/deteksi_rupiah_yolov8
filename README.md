@@ -1,18 +1,7 @@
 # deteksi_rupiah_yolov8
 Proyek computer vision berbasis YOLOv8 untuk mendeteksi dan mengklasifikasi berbagai pecahan mata uang kertas Rupiah secara real-time.
 
-Berikut adalah rekomendasi deskripsi dan isi file `README.md` yang lengkap dan profesional untuk proyek YOLOv8 kamu. Kamu bisa langsung menyalin teks di bawah ini.
-
-### 1. Deskripsi Repository (Diisi pada kolom *Description* di GitHub)
-
-> Proyek *computer vision* berbasis YOLOv8 untuk mendeteksi dan mengklasifikasi berbagai pecahan mata uang kertas Rupiah secara *real-time*.
-
 ---
-
-### 2. Isi Dokumen `README.md`
-
-Kamu bisa menyalin seluruh teks di dalam kotak di bawah ini, lalu tempel (*paste*) ke dalam file `README.md` kamu nanti.
-
 
 # Deteksi Rupiah menggunakan YOLOv8
 
