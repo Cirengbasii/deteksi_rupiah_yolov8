@@ -1,0 +1,18 @@
+names:
+- dua puluh ribu rupiah
+- dua ribu rupiah
+- lima puluh ribu rupiah
+- lima ribu rupiah
+- sepuluh ribu rupiah
+- seratus ribu rupiah
+- seribu rupiah
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: deteksi-mata-uang-rupiah-nerog
+  url: https://universe.roboflow.com/skripsi-3kth2/deteksi-mata-uang-rupiah-nerog/dataset/1
+  version: 1
+  workspace: skripsi-3kth2
+test: ../test/images
+train: ../train/images
+val: ../valid/images

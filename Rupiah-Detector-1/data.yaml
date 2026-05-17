@@ -1,0 +1,18 @@
+names:
+- dua puluh ribu rupiah
+- dua ribu rupiah
+- lima puluh ribu rupiah
+- lima ribu rupiah
+- sepuluhribu rupiah
+- seratusribu rupiah
+- seribu rupiah
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: rupiah-detector-qzmb7
+  url: https://universe.roboflow.com/rupiah-detector/rupiah-detector-qzmb7/dataset/1
+  version: 1
+  workspace: rupiah-detector
+test: ../test/images
+train: ../train/images
+val: ../valid/images

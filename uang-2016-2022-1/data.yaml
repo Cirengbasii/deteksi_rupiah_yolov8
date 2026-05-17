@@ -1,0 +1,22 @@
+names:
+- dua puluh ribu rupiah
+- dua ratus rupiah
+- dua ribu rupiah
+- lima puluh ribu rupiah
+- lima ratus rupiah
+- lima ribu rupiah
+- sepuluh ribu rupiah
+- seratus ribu rupiah
+- seratus rupiah
+- seribu rupiah kertas
+- seribu rupiah koin
+nc: 11
+roboflow:
+  license: CC BY 4.0
+  project: uang-2016-2022
+  url: https://universe.roboflow.com/fix-tmc9q/uang-2016-2022/dataset/1
+  version: 1
+  workspace: fix-tmc9q
+test: ../test/images
+train: ../train/images
+val: ../valid/images
